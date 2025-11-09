@@ -1,0 +1,35 @@
+KNOWN ISSUES REPORT
+----------------------------
+
+python3 playground.py
+
+A module that was compiled using NumPy 1.x cannot be run in
+NumPy 2.2.6 as it may crash. To support both 1.x and 2.x
+versions of NumPy, modules must be compiled with NumPy 2.0.
+Some module may need to rebuild instead e.g. with 'pybind11>=2.12'.
+
+If you are a user of the module, the easiest solution will be to
+downgrade to 'numpy<2' or try to upgrade the affected module.
+We expect that some modules will need time to support NumPy 2.
+
+SOLUTION 
+pip install 'numpy<2'
+Re-run the script
+
+----------------------------
+
+Use the 'python3' command on AWS instances and Linux distributions.
+No issues were found on Windows 11+ using the 'python' command.
+
+----------------------------
+
+In Excel, in order to maintain all decimals, do not convert the columns to numbers.
+Or 
+Use the "Format Cells" Dialog Box 
+This method provides precise control over the number of decimal places and other formatting options. 
+Select the cells you want to format.
+Right-click the selected cells and choose Format Cells from the context menu. Alternatively, you can press Ctrl + 1.
+In the Format Cells dialog box, go to the Number tab.
+Under the Category list, select Number (or Currency, Accounting, Percentage, or Scientific, depending on your data type).
+In the Decimal places box, type or use the up/down arrows to select the exact number of decimal places you want to display.
+Click OK to apply the changes. 
