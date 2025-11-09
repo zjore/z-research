@@ -221,5 +221,9 @@ If you reference the datasets or visualizations, please cite:
 
 ---
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17566257.svg)](https://doi.org/10.5281/zenodo.17566257)
+
+---
+
 *“Walk the mountains, rest at the valleys. All is revealed with symmetry.”*
 — *Valley Scanner Project, 2025*
