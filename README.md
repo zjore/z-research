@@ -189,7 +189,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/zjore/z-research.git
-cd z-valley-scanner
+cd z-research
 ```
 
 Install dependencies (if required):
