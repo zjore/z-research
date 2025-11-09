@@ -1,3 +1,6 @@
-git remote add origin https://github.com/zjore/z-reasearch.git
+git init
+git commit -m "first commit"
 git branch -M main
+git remote add origin https://github.com/zjore/z-research.git
+git add -f *
 git push -u origin main
