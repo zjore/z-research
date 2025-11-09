@@ -33,3 +33,23 @@ In the Format Cells dialog box, go to the Number tab.
 Under the Category list, select Number (or Currency, Accounting, Percentage, or Scientific, depending on your data type).
 In the Decimal places box, type or use the up/down arrows to select the exact number of decimal places you want to display.
 Click OK to apply the changes. 
+
+----------------------------
+
+docker pull jacobore/jor_z:native
+permission denied while trying to connect to the Docker daemon socket at unix:///var/run/docker.sock: Post "http://%2Fvar%2Frun%2Fdocker.sock/v1.50/images/create?fromImage=docker.io%2Fjacobore%2Fjor_z&tag=native": dial unix /var/run/docker.sock: connect: permission denied
+
+SOLUTION:
+Run:
+
+sudo docker pull jacobore/jor_z:native
+docker run --rm -it jacobore/jor_z:native
+
+----------------------------
+
+After execute some valley scanner command:
+
+Illegal instruction (core dumped)
+
+Report this issue to jacoboreore@gmail.com
+Since CPU debugging may be required. 
