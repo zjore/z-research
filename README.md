@@ -89,7 +89,7 @@ Where:
 
 Example dataset link:
 
-> [refined_sample_1122334455.csv](https://github.com/jacoboreore/z-valley-scanner/blob/main/datasets/refined_sample_1122334455.csv)
+> [refined_sample_1122334455.csv](https://github.com/zjore/z-research/blob/main/datasets/refined_sample_1122334455.csv)
 
 ---
 
@@ -188,7 +188,7 @@ The project aims to:
 Clone the repository:
 
 ```bash
-git clone https://github.com/jacoboreore/z-valley-scanner.git
+git clone https://github.com/zjore/z-research.git
 cd z-valley-scanner
 ```
 
@@ -217,7 +217,7 @@ If you reference the datasets or visualizations, please cite:
 
 ### 📜 License and Usage
 - Core computation binaries and algorithms: **Proprietary — All rights reserved.**
-- Datasets and visualization scripts: **MIT License** (see [LICENSE](https://github.com/jacoboreore/z-valley-scanner/blob/main/LICENCE.md)).
+- Datasets and visualization scripts: **MIT License** (see [LICENSE](https://github.com/zjore/z-research/blob/main/LICENCE.md)).
 
 ---
 

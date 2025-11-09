@@ -81,7 +81,7 @@ OTHER DEALINGS IN THE SOFTWARE.
 If you reference the datasets, visualizations, or results derived from this repository, please cite:
 
 > **Orellana, J. (2025). *Valley Scanner: A Continuous Method for Detecting Zeta Zeros Without Gram Alignment*.**
-> [https://github.com/jacoboreore/z-valley-scanner/tree/main](https://github.com/jacoboreore/z-valley-scanner/tree/main)
+> [https://github.com/zjore/z-research/tree/main](https://github.com/zjore/z-research/tree/main)
 
 ---
 
