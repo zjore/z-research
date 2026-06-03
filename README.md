@@ -151,6 +151,16 @@ python3 playground.py
 
 ---
 
+### 🌐 Web Interface
+
+The same functionality is available through the web interface:
+
+👉 [**https://p56yzukrvv.us-east-1.awsapprunner.com/**](https://p56yzukrvv.us-east-1.awsapprunner.com/)
+
+This interface allows users to launch the same computational modes from a browser-based environment with live progress tracking and dataset export capabilities.
+
+---
+
 # 🛰️ Licensing and Citation
 
 ## Repository Components
